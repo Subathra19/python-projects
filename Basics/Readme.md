@@ -2,8 +2,8 @@
 --------
 1. **Data Types:** 
   * __[`Numeric Data Type`](#numeric-data-type)__
-  * __[`Sequence Data Type`](#sequence)__
-  * __[`Boolean Data Type`](#boolean)__
+  * __[`Sequence Data Type`](#sequence-data-type)__
+  * __[`Boolean Data Type`](#boolean-data-type)__
   * __[`Sets`](#sets)__
   * __[`Dictionaries`](#dictionaries)__
   * __[`None`](#none)__
@@ -116,7 +116,7 @@ p = bool(word.find(word[::-1]) + 1)
 print(p) # True
 ```
 
-Boolean
+Boolean data type
 ----
 **True or False. Used in a lot of comparison and logical operations in Python**
 ```python

@@ -7,11 +7,14 @@
   * __[`Sets`](#sets)__
   * __[`Dictionaries`](#dictionaries)__
   * __[`None`](#none)__
-
+2. **Opeartors**
+3. **Loops**
+4. **Functions**
+5. **Advanced Python**
 
 numeric
 ----
-**python's 2 main types for Numbers is int and float (or integers and floating point numbers)**
+**It consists of int (integers), float (floating point numbers) and complex numbers**
 ```python
 type(1)   # int 
 type(-10) # int

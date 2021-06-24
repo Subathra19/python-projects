@@ -1,12 +1,12 @@
 # Contents
 --------
-** 1. Data Types: ** 
-* __[`Numeric Data Type`](#numeric)__
-* __[`Sequence`](#sequence)__
-* __[`Boolean`](#boolean)__
-* __[`Sets`](#sets)__
-* __[`Dictionaries`](#dictionaries)__
-* __[`None`](#none)
+1. **Data Types: ** 
+  * __[`Numeric Data Type`](#numeric)__
+  * __[`Sequence`](#sequence)__
+  * __[`Boolean`](#boolean)__
+  * __[`Sets`](#sets)__
+  * __[`Dictionaries`](#dictionaries)__
+  * __[`None`](#none)
 
 
 numeric

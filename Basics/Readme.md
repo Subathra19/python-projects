@@ -52,7 +52,11 @@ age = int(age)
 pi = input("What is the value of pi?")
 pi = float(pi)
 ```
-
+Sequence Data Type
+----
+**It consists of int (integers), float (floating point numbers) and complex numbers**
+```python
+```
 Strings
 ----
 **strings in python as stored as sequences of letters in memory**
@@ -116,7 +120,7 @@ p = bool(word.find(word[::-1]) + 1)
 print(p) # True
 ```
 
-Boolean data type
+Boolean Data Type
 ----
 **True or False. Used in a lot of comparison and logical operations in Python**
 ```python

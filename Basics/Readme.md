@@ -37,7 +37,7 @@ type('Hello World') # str
 'I\'m Subathra'
 "I'm Subathra"
 ```
-* Characters in the string is accesed by indexing[]
+* Characters in the string are accesed by indexing[]
 ```python
 name='subathra'
 name[4] # t

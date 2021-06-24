@@ -25,7 +25,7 @@ type(2+3J) # complex
 ```
 
 Sequence Data Type
-** It is a ordered collection of similar or different data types
+**It is a ordered collection of similar or different data types**
 ----
 Strings
 ----

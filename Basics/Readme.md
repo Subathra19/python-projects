@@ -1,7 +1,7 @@
 # Contents
 --------
-** 1. Data Types: 
-**[Numeric](#Numeric Data Type)__,__[`Sequence`](#sequence)__,__[`Boolean`](#boolean)__,__[`Sets`](#sets)__,__[`Dictionaries`](#dictionaries)__,__[`None`](#none)**  
+** 1. Data Types: ** 
+* [Numeric]__(#Numeric-Data-Type)__,__[`Sequence`](#sequence)__,__[`Boolean`](#boolean)__,__[`Sets`](#sets)__,__[`Dictionaries`](#dictionaries)__,__[`None`](#none)*
 
 
 Numeric Data Type

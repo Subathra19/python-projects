@@ -25,20 +25,22 @@ type(2+3J) # complex
 ```
 
 Sequence Data Type
+** It is a ordered collection of similar or different data types
 ----
-**It consists of int (integers), float (floating point numbers) and complex numbers**
-```python
-```
 Strings
 ----
-**strings in python as stored as sequences of letters in memory**
+* **It is a collection of one or sequence of characters in memory**
 ```python
-type('Hellloooooo') # str
+type('Hello World') # str
 
-'I\'m thirsty'
-"I'm thirsty"
-"\n" # new line
-"\t" # adds a tab
+#To print single quote(') use \' or write it within double quotes
+'I\'m Subathra'
+"I'm Subathra"
+```
+* Characters in the string is accesed by indexing[]
+```python
+name='subathra'
+name[4] # t
 
 'Hey you!'[4] # y
 name = 'Andrei Neagoie'
@@ -56,41 +58,6 @@ name[0:10:2]# Ade e
 '*'*10 # **********
 ```
 
-```python
-# Basic Functions
-len('turtle') # 6
-
-# Basic Methods
-'  I am alone '.strip()               # 'I am alone' --> Strips all whitespace characters from both ends.
-'On an island'.strip('d')             # 'On an islan' --> # Strips all passed characters from both ends.
-'but life is good!'.split()           # ['but', 'life', 'is', 'good!']
-'Help me'.replace('me', 'you')        # 'Help you' --> Replaces first with second param
-'Need to make fire'.startswith('Need')# True
-'and cook rice'.endswith('rice')      # True
-'bye bye'.index('e')                  # 2
-'still there?'.upper()                # STILL THERE?
-'HELLO?!'.lower()                     # hello?!
-'ok, I am done.'.capitalize()         # 'Ok, I am done.'
-'oh hi there'.find('i')               # 4 --> returns the starting index position of the first occurrence
-'oh hi there'.count('e')              # 2
-
-```
-
-```python
-# String Formatting
-name1 = 'Andrei'
-name2 = 'Sunny'
-print(f'Hello there {name1} and {name2}')       # Hello there Andrei and Sunny - Newer way to do things as of python 3.6
-print('Hello there {}, {}'.format(name1, name2))# Hello there Andrei and Sunny
-print('Hello there %s and %s' %(name1, name2))  # Hello there Andrei and Sunny --> you can also use %d, %f, %r for integers, floats, string representations of objects respectively
-```
-
-```python
-# Palindrome check
-word = 'reviver'
-p = bool(word.find(word[::-1]) + 1)
-print(p) # True
-```
 
 Boolean Data Type
 ----

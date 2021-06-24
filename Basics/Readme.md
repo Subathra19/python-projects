@@ -1,10 +1,10 @@
 # Contents
 --------
 ** 1. Data Types: ** 
-* [`Numeric`]__(#Numeric-Data-Type)__,__[`Sequence`](#sequence)__,__[`Boolean`](#boolean)__,__[`Sets`](#sets)__,__[`Dictionaries`](#dictionaries)__,__[`None`](#none)*
+* [`Numeric Data Type`]__(#Numeric)__,__[`Sequence`](#sequence)__,__[`Boolean`](#boolean)__,__[`Sets`](#sets)__,__[`Dictionaries`](#dictionaries)__,__[`None`](#none)*
 
 
-Numeric Data Type
+Numeric
 ----
 **python's 2 main types for Numbers is int and float (or integers and floating point numbers)**
 ```python

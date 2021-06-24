@@ -1,7 +1,7 @@
 # Contents
 --------
 1. **Data Types:** 
-  * __[`Numeric Data Type`](#numeric)__
+  * [`Numeric Data Type`](#numeric)__
   * __[`Sequence Data Type`](#sequence)__
   * __[`Boolean Data Type`](#boolean)__
   * __[`Sets`](#sets)__

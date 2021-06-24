@@ -1,7 +1,7 @@
 # Contents
 --------
 1. **Data Types:** 
-  * [`Numeric Data Type`](#numeric)__
+  * __[`Numeric Data Type`](#numeric-data-type)__
   * __[`Sequence Data Type`](#sequence)__
   * __[`Boolean Data Type`](#boolean)__
   * __[`Sets`](#sets)__
@@ -12,7 +12,7 @@
 4. **Functions**
 5. **Advanced Python**
 
-numeric
+Numeric Data Type
 ----
 **It consists of int (integers), float (floating point numbers) and complex numbers**
 ```python

@@ -3,7 +3,7 @@
 ## Contributions
 * This repository is open for contributions and learning
 * It contains the basics of python and coding for 10 applications  
-### Basics 
+### [Basics](https://github.com/Subathra19/Python/blob/main/Basics/Readme.md) 
 ### Applications
  * English Thesaurus 
  * Web map

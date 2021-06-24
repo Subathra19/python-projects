@@ -2,7 +2,7 @@
 --------
 1. **Data Types:** 
   * __[`Numeric Data Type`](#numeric-data-type)__
-  * Sequence Data Type:__[`Strings`](#strings)__,__[`Lists`](#lists)__,__ [`Tuples`](#tuples)__
+  * Sequence Data Type:__[`Strings`](#strings)__,__[`Lists`](#lists)__,__ [`Tuples`](#tuples)
   * __[`Boolean Data Type`](#boolean-data-type)__
   * __[`Sets`](#sets)__
   * __[`Dictionaries`](#dictionaries)__

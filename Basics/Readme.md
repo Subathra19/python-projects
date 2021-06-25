@@ -12,6 +12,7 @@
 4. **Functions**
 5. **Advanced Python**
 
+
 Numeric Data Type
 ----
 * **It consists of int (integers), float (floating point numbers) and complex numbers**
@@ -30,34 +31,25 @@ Sequence Data Type
 Strings
 ----
 * **It is a collection of one or sequence of characters in memory**
+* **There is no character data type in python, a string of length one can be considered as a character** 
 ```python
 type('Hello World') # str
 
 #To print single quote(') use \' or write it within double quotes
 'I\'m Subathra'
 "I'm Subathra"
+# Use triplr quotes to write multiple lines
+'''Subathra
+   Chinu'''
 ```
 * Characters in the string are accesed by indexing[]
 ```python
 name='subathra'
 name[4] # t
-
-'Hey you!'[4] # y
-name = 'Andrei Neagoie'
-name[4]     # e
-name[:]     # Andrei Neagoie
-name[1:]    # ndrei Neagoie
-name[:1]    # A
-name[-1]    # e
-name[::1]   # Andrei Neagoie
-name[::-1]  # eiogaeN ierdnA
-name[0:10:2]# Ade e
-# : is called slicing and has the format [ start : end : step ]
-
-'Hi there ' + 'Timmy' # 'Hi there Timmy' --> This is called string concatenation
-'*'*10 # **********
+name[0] # s
+name [-1] # a
 ```
-
+![alt text](https://github.com/Subathra19/Python/blob/main/images/string.PNG)
 
 Boolean Data Type
 ----
@@ -314,3 +306,4 @@ a = None
 Credits
 ------
 Inspired by: https://github.com/gto76/python-cheatsheet
+

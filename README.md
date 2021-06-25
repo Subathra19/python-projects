@@ -1,9 +1,11 @@
 # Applications build with python
 
-## Contributions
-* This repository is open for contributions and learning
-* It contains the basics of python and coding for 10 applications  
-### [Basics](https://github.com/Subathra19/Python/blob/main/Basics/Readme.md) 
+One stop repository for all the python based applications I have been working on
+
+#### [English Thesaurus ]()
+> Description : A python based music streaming app. Built using Flask and SQLite3. 
+
+
 ### Applications
  * English Thesaurus 
  * Web map

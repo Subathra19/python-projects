@@ -2,8 +2,8 @@
 
 One stop repository for all the python based applications I have been working on
 
-#### [English Thesaurus ]()
-> Description : A python based music streaming app. Built using Flask and SQLite3. 
+#### [English Thesaurus]()
+> Description : A python-based thesaurus app that provides the meaning of a given word. 
 
 
 ### Applications

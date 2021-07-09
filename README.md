@@ -20,8 +20,8 @@ One-stop repository for all the python based applications I have been working on
 
 
 
-#### 2. [English Thesaurus](https://github.com/Subathra19/py_theasurus)
+#### 2. [English Thesaurus](https://github.com/Subathra19/theasurus)
 > Description : A python-based thesaurus app that provides the meaning of a given word. 
 
-#### 3. [Web-map](https://github.com/Subathra19/py_webmap)
+#### 3. [Web-map](https://github.com/Subathra19/webmap)
 > Description : A python-based web map application of population and volcanoes using folium

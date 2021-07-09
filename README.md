@@ -2,16 +2,16 @@
 
 One-stop repository for all the python based applications I have been working on
 #### 1. Game
-> **[Rock Paper Scissor](https://github.com/Subathra19/py_rock_paper_scissor)**
+> **[Rock Paper Scissor](https://github.com/Subathra19/rock_paper_scissor)**
   >> Description : A simple python-based game  
 
-> **[Hangman](https://github.com/Subathra19/py_hangman)**
+> **[Hangman](https://github.com/Subathra19/hangman)**
   >> Description : A simple python-based word guessing game  
 
->  **[Snake Game](https://github.com/Subathra19/py_snake)**
+>  **[Snake Game](https://github.com/Subathra19/snakegame)**
   >> Description : A python based game built using PyGame.
 
->  **[Flappy Bird](https://github.com/Subathra19/py_flappybird)**
+>  **[Flappy Bird](https://github.com/Subathra19/flappybird)**
   >> Description : A python based game built using PyGame.
 
 >  **[Sudoku](https://github.com/Subathra19/py_sudoku)**

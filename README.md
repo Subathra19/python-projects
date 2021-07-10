@@ -25,3 +25,6 @@ One-stop repository for all the python based applications I have been working on
 
 #### 3. [Web-map](https://github.com/Subathra19/webmap)
 > Description : A python-based web map application of population and volcanoes using folium
+
+#### 4. [Covid19 Analysis](https://github.com/Subathra19/covid19)
+> Description : A python-based application for data analysis of covid 19 using JustPy

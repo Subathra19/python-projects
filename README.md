@@ -24,7 +24,10 @@ One-stop repository for all the python based applications I have been working on
 > Description : A python-based thesaurus app that provides the meaning of a given word. 
 
 #### 3. [Web-map](https://github.com/Subathra19/webmap)
-> Description : A python-based web map application of population and volcanoes using folium
+> Description : A python-based web map application of population and volcanoes using **folium**
 
 #### 4. [IPL Data Analysis](https://github.com/Subathra19/ipl)
-> Description : A python-based application for data analysis of ipl
+> Description : A python-based application for data analysis of ipl using **JustPy**
+
+#### 5. [Restaurant Management System](https://github.com/Subathra19/ipl)
+> Description : A python-based application for mangaing the billing system of restaurant using **tkinter**

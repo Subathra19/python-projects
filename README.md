@@ -29,5 +29,5 @@ One-stop repository for all the python based applications I have been working on
 #### 4. [IPL Data Analysis](https://github.com/Subathra19/ipl)
 > Description : A python-based application for data analysis of ipl using **JustPy**
 
-#### 5. [Restaurant Management System](https://github.com/Subathra19/ipl)
+#### 5. [Restaurant Management System](https://github.com/Subathra19/restaurant-management-system)
 > Description : A python-based application for mangaing the billing system of restaurant using **tkinter**

@@ -20,8 +20,9 @@ One-stop repository for all the python based applications I have been working on
 >  **[Flappy Bird](https://github.com/Subathra19/flappybird)**
   >> Description : A python based game built using **PyGame**.
 
->  **[Sudoku](https://github.com/Subathra19/py_sudoku)**
+>  **[Connect4](https://github.com/Subathra19/connect4)**
   >> Description : A python based game built using **PyGame**.
+
 
 ## Folium
 

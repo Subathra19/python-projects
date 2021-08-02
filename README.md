@@ -7,7 +7,7 @@ One-stop repository for all the python based applications I have been working on
 
 ## PyGame
 
-#### 1. Game
+#### 2. Game
 > **[Rock Paper Scissor](https://github.com/Subathra19/rock_paper_scissor)**
   >> Description : A simple python-based game  
 
@@ -45,8 +45,11 @@ One-stop repository for all the python based applications I have been working on
 #### 8. [Music Player](https://github.com/Subathra19/music-player)
 > Description : A python-based Music Player application built using **TkInter** and **PyGame**
 
+#### 9. [Weather Application](https://github.com/Subathra19/weather-app)
+> Description : A python-based weather application built using **TkInter**
+
 ## Kivy
 
-#### 9. [Login System](https://github.com/Subathra19/login-system)
+#### 10. [Login System](https://github.com/Subathra19/login-system)
 > Description : A python-based  android application built using **Kivy**
 
